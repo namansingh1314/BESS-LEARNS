@@ -17,12 +17,12 @@ export const sidebarLinks = [
   {
     imgURL: "/assets/create.svg",
     route: "/create-thread",
-    label: "Create Thread",
+    label: "Add Update",
   },
   {
     imgURL: "/assets/community.svg",
     route: "/communities",
-    label: "Communities",
+    label: "Users",
   },
   {
     imgURL: "/assets/user.svg",
